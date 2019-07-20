@@ -9,6 +9,8 @@ Short answer: No.
 ```
 pip install -r requirements.txt
 ```
+Note: Only works under Firefox, cuz this was just a quick
+test.
 
 #### *Test Run*
 ```
