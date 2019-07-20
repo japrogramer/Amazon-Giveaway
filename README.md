@@ -1,7 +1,7 @@
-** Amazon click to win Selenium Script **
+## Amazon click to win Selenium Script
 
 Automated test to see if Amazon Giveaways are worth
-your time. 
+your time.
 
 Short answer: No.
 
